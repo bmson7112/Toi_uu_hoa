@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678044433 source:s:\máy tính\toiuuhoa\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
